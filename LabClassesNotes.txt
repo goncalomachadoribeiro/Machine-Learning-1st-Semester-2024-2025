@@ -1,0 +1,9 @@
+Lab Classes Notes
+
+Lab Class no.1 - 17/09/2024
+
+White Noise: errors follows a Gaussian distribution with zero mean and equal variance for all points.
+
+In case we have points that were badly acquired, we should exclude them. 
+
+We are given with a dataset with a set of input/output pairs.
