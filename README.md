@@ -1,4 +1,8 @@
-Machine Learning Syllabus:
+# Authors:
+- Gonçalo Ribeiro
+- Inês Nunes
+
+# Machine Learning Syllabus:
 
 1. Machine learning concept: supervised learning.
 2. Linear regression: quadratic cost, normal equations, regularization.
