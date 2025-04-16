@@ -14,5 +14,3 @@
 8. Support vector machines: hard margin, soft margin, non linear classifiers.
 9. Decision trees and random forests: impurity, ID3 algorithm, bagging, random subspace.
 10. Feature selection and extraction.
-
-This repository contains the work developed by Gonçalo Ribeiro (100306) and Maria Inês Nunes (100346) for the course Machine Learning (1st Semester 2024/2025).
